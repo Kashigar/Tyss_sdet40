@@ -27,7 +27,7 @@ public class TestPractice {
 		test.info("tittle asseration is passed");
 		System.out.println(username+"  -- > "+password);
 		System.out.println("test case is passed");
-		fail();
+//		fail();
 		driver.close();
 	}
 
